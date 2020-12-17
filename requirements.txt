@@ -1,0 +1,7 @@
+pymysql~=0.10.1
+pillow~=8.0.1
+tkinter ~ comes with conda
+mysql -server installed on the system.
+    # ubuntu
+    # => sudo apt update
+    # => sudo apt install mysql-server
